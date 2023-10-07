@@ -137,7 +137,7 @@
 
       <v-tooltip bottom>
         <template v-slot:activator="{ on, attrs }">
-          <v-btn icon href="https://github.com/Kekwel/SmashThumbnailGenerator" target="_blank" v-bind="attrs" v-on="on">
+          <v-btn icon href="https://github.com/JaiChong/SmashThumbnailGenerator" target="_blank" v-bind="attrs" v-on="on">
             <v-icon>mdi-github</v-icon>
           </v-btn>
         </template>
